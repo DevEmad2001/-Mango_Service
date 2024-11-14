@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FrontEnd", "FrontEnd", "{1A2F6E38-B6CA-4A35-993F-5C003FB909D8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gatway", "Gatway", "{1E2F96D0-4596-40DC-BD1C-112D0FF3AAB3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Integration", "Integration", "{6EA06085-2077-4DA3-9768-FEA1F5482655}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{CDF7F919-B6C3-4651-929B-04A879BA005E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mango.Service.CouponAPI", "Mango.Service.CouponAPI\Mango.Service.CouponAPI.csproj", "{3BDED094-E5CF-4462-97FF-D73E59776886}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BDED094-E5CF-4462-97FF-D73E59776886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BDED094-E5CF-4462-97FF-D73E59776886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BDED094-E5CF-4462-97FF-D73E59776886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BDED094-E5CF-4462-97FF-D73E59776886}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3BDED094-E5CF-4462-97FF-D73E59776886} = {CDF7F919-B6C3-4651-929B-04A879BA005E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50B8DAEF-71B7-4679-9AF8-3BDC3C95644B}
+	EndGlobalSection
+EndGlobal
