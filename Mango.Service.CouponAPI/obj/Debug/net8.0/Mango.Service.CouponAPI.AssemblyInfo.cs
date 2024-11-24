@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mango.Service.CouponAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc3b05173968078ed9996375b0021b0611ebd847")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4346bbf11f457256f65e37b040aafffd130abd3e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mango.Service.CouponAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mango.Service.CouponAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

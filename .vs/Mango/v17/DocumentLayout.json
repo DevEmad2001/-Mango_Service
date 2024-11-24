@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\Mango\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3BDED094-E5CF-4462-97FF-D73E59776886}|Mango.Service.CouponAPI\\Mango.Service.CouponAPI.csproj|c:\\users\\lenovo\\source\\repos\\mango\\mango.service.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BDED094-E5CF-4462-97FF-D73E59776886}|Mango.Service.CouponAPI\\Mango.Service.CouponAPI.csproj|solutionrelative:mango.service.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C001DA43-877C-4F4B-8EDE-F2ED647CC494}|Mango.Web\\Mango.Web.csproj|c:\\users\\lenovo\\source\\repos\\mango\\mango.web\\service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C001DA43-877C-4F4B-8EDE-F2ED647CC494}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BDED094-E5CF-4462-97FF-D73E59776886}|Mango.Service.CouponAPI\\Mango.Service.CouponAPI.csproj|c:\\users\\lenovo\\source\\repos\\mango\\mango.service.couponapi\\data\\adddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BDED094-E5CF-4462-97FF-D73E59776886}|Mango.Service.CouponAPI\\Mango.Service.CouponAPI.csproj|solutionrelative:mango.service.couponapi\\data\\adddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C001DA43-877C-4F4B-8EDE-F2ED647CC494}|Mango.Web\\Mango.Web.csproj|c:\\users\\lenovo\\source\\repos\\mango\\mango.web\\utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C001DA43-877C-4F4B-8EDE-F2ED647CC494}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BDED094-E5CF-4462-97FF-D73E59776886}|Mango.Service.CouponAPI\\Mango.Service.CouponAPI.csproj|c:\\users\\lenovo\\source\\repos\\mango\\mango.service.couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BDED094-E5CF-4462-97FF-D73E59776886}|Mango.Service.CouponAPI\\Mango.Service.CouponAPI.csproj|solutionrelative:mango.service.couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BDED094-E5CF-4462-97FF-D73E59776886}|Mango.Service.CouponAPI\\Mango.Service.CouponAPI.csproj|c:\\users\\lenovo\\source\\repos\\mango\\mango.service.couponapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BDED094-E5CF-4462-97FF-D73E59776886}|Mango.Service.CouponAPI\\Mango.Service.CouponAPI.csproj|solutionrelative:mango.service.couponapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BDED094-E5CF-4462-97FF-D73E59776886}|Mango.Service.CouponAPI\\Mango.Service.CouponAPI.csproj|c:\\users\\lenovo\\source\\repos\\mango\\mango.service.couponapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BDED094-E5CF-4462-97FF-D73E59776886}|Mango.Service.CouponAPI\\Mango.Service.CouponAPI.csproj|solutionrelative:mango.service.couponapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C001DA43-877C-4F4B-8EDE-F2ED647CC494}|Mango.Web\\Mango.Web.csproj|c:\\users\\lenovo\\source\\repos\\mango\\mango.web\\service\\iservice\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C001DA43-877C-4F4B-8EDE-F2ED647CC494}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\service\\iservice\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,67 +50,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MappingConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Mango\\Mango.Service.CouponAPI\\MappingConfig.cs",
-              "RelativeDocumentMoniker": "Mango.Service.CouponAPI\\MappingConfig.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Mango\\Mango.Service.CouponAPI\\MappingConfig.cs",
-              "RelativeToolTip": "Mango.Service.CouponAPI\\MappingConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Mango\\Mango.Web\\Utility\\SD.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Utility\\SD.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Mango\\Mango.Web\\Utility\\SD.cs",
+              "RelativeToolTip": "Mango.Web\\Utility\\SD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T06:55:35.801Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Mango\\Mango.Service.CouponAPI\\Models\\Dto\\ResponseDto.cs",
-              "RelativeDocumentMoniker": "Mango.Service.CouponAPI\\Models\\Dto\\ResponseDto.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Mango\\Mango.Service.CouponAPI\\Models\\Dto\\ResponseDto.cs",
-              "RelativeToolTip": "Mango.Service.CouponAPI\\Models\\Dto\\ResponseDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T11:13:43.083Z",
+              "WhenOpened": "2024-11-20T13:39:45.7Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CouponAPIController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Mango\\Mango.Service.CouponAPI\\Controllers\\CouponAPIController.cs",
-              "RelativeDocumentMoniker": "Mango.Service.CouponAPI\\Controllers\\CouponAPIController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Mango\\Mango.Service.CouponAPI\\Controllers\\CouponAPIController.cs",
-              "RelativeToolTip": "Mango.Service.CouponAPI\\Controllers\\CouponAPIController.cs",
-              "ViewState": "AQIAAJAAAAAAAAAAAAAowJgAAAANAAAA",
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Mango\\Mango.Web\\Service\\BaseService.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Service\\BaseService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Mango\\Mango.Web\\Service\\BaseService.cs",
+              "RelativeToolTip": "Mango.Web\\Service\\BaseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T10:47:20.093Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AddDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Mango\\Mango.Service.CouponAPI\\Data\\AddDbContext.cs",
-              "RelativeDocumentMoniker": "Mango.Service.CouponAPI\\Data\\AddDbContext.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Mango\\Mango.Service.CouponAPI\\Data\\AddDbContext.cs",
-              "RelativeToolTip": "Mango.Service.CouponAPI\\Data\\AddDbContext.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAIAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T08:32:38.319Z",
+              "WhenOpened": "2024-11-18T07:22:59.543Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Mango\\Mango.Service.CouponAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Mango.Service.CouponAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Mango\\Mango.Service.CouponAPI\\Program.cs",
-              "RelativeToolTip": "Mango.Service.CouponAPI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAmAAAA",
+              "Title": "IBaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Mango\\Mango.Web\\Service\\IService\\IBaseService.cs",
+              "RelativeDocumentMoniker": "Mango.Web\\Service\\IService\\IBaseService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Mango\\Mango.Web\\Service\\IService\\IBaseService.cs",
+              "RelativeToolTip": "Mango.Web\\Service\\IService\\IBaseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T08:30:01.147Z",
+              "WhenOpened": "2024-11-17T13:32:43.573Z",
               "EditorCaption": ""
             }
           ]
